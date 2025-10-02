@@ -1,7 +1,7 @@
 ## Hi!
 * My name is Harshini Nuti!
-* I use she/her pronouns!
-* I'm interested in applied microeconomics research!
+* I use she/her pronouns.
+* I'm interested in applied microeconomics research.
 * Some of my work that I have done and I am proud of can be found here! 
 
 <!--
