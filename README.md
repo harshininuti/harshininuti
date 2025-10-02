@@ -2,7 +2,7 @@
 * My name is Harshini Nuti!
 * I use she/her pronouns.
 * I'm interested in applied microeconomics research.
-* Some of my work that I have done and I am proud of can be found here! 
+* Some of my work that I am proud of can be found here! 
 
 <!--
 **harshininuti/harshininuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
